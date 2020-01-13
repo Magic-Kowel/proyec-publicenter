@@ -1,0 +1,15 @@
+C:\Users\bodega aurrera\source\repos\WindowsFormsApp33\WindowsFormsApp33\bin\Debug\WindowsFormsApp33.exe.config
+C:\Users\bodega aurrera\source\repos\WindowsFormsApp33\WindowsFormsApp33\bin\Debug\WindowsFormsApp33.exe
+C:\Users\bodega aurrera\source\repos\WindowsFormsApp33\WindowsFormsApp33\bin\Debug\WindowsFormsApp33.pdb
+C:\Users\bodega aurrera\source\repos\WindowsFormsApp33\WindowsFormsApp33\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\bodega aurrera\source\repos\WindowsFormsApp33\WindowsFormsApp33\obj\Debug\WindowsFormsApp33.csprojAssemblyReference.cache
+C:\Users\bodega aurrera\source\repos\WindowsFormsApp33\WindowsFormsApp33\obj\Debug\WindowsFormsApp33.Form1.resources
+C:\Users\bodega aurrera\source\repos\WindowsFormsApp33\WindowsFormsApp33\obj\Debug\WindowsFormsApp33.Form2.resources
+C:\Users\bodega aurrera\source\repos\WindowsFormsApp33\WindowsFormsApp33\obj\Debug\WindowsFormsApp33.Properties.Resources.resources
+C:\Users\bodega aurrera\source\repos\WindowsFormsApp33\WindowsFormsApp33\obj\Debug\WindowsFormsApp33.csproj.GenerateResource.cache
+C:\Users\bodega aurrera\source\repos\WindowsFormsApp33\WindowsFormsApp33\obj\Debug\WindowsFormsApp33.csproj.CoreCompileInputs.cache
+C:\Users\bodega aurrera\source\repos\WindowsFormsApp33\WindowsFormsApp33\obj\Debug\WindowsFormsApp33.csproj.CopyComplete
+C:\Users\bodega aurrera\source\repos\WindowsFormsApp33\WindowsFormsApp33\obj\Debug\WindowsFormsApp33.exe
+C:\Users\bodega aurrera\source\repos\WindowsFormsApp33\WindowsFormsApp33\obj\Debug\WindowsFormsApp33.pdb
+C:\Users\bodega aurrera\source\repos\WindowsFormsApp33\WindowsFormsApp33\obj\Debug\WindowsFormsApp33.Form3.resources
+C:\Users\bodega aurrera\source\repos\WindowsFormsApp33\WindowsFormsApp33\obj\Debug\WindowsFormsApp33.calculadora.calculadora.resources
